@@ -1,8 +1,8 @@
 # Docker Historian
 
-Python script to recover Docker file from an image
+Python script to recover Docker file from an image.
 
-Needs python-docker to run.
+Needs `python-py` to run.
 
 ```
 virtualenv -p python venv
